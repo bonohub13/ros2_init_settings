@@ -8,6 +8,8 @@ This is mainly for people who want to be lazy as possible when making a ROS2 env
 
 ::: after you've downloaded this file, please do the following :::
 　
+ ###### please note that you need to cancel the comment of some few lines to fullly automate the process!  
+   
   1. source ros_init.bash　　
 　　
   2. source ros2_env_init_settings.bash　　
