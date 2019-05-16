@@ -14,12 +14,16 @@ This is mainly for people who want to be lazy as possible when making a ROS2 env
 　　
   2. source ros2_env_init_settings.bash　　
 　　
-  3. source ros2_settings.bash　　
+  3. source ros2_settings.bash  
+  
+  ###### or... just do the lazy_way.bash
 
 
 ##  ==================================================  
-.   
-.   
+###### NOTICE: There have been some mistakes in ros2_settings.bash, and ros2_env_init_settings.bash!
+(It's ok! it has been fixed! YAAAY!)  
+And since I thought it was just nonsence to comment out the automation, it's now fully automatable without doing ANYTHING!  
+.  
 .   
 ##  ==================================================  
 ##  ======= MEMO =====================================  
