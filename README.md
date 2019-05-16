@@ -26,7 +26,12 @@ This is mainly for people who want to be lazy as possible when making a ROS2 env
 ###### NOTICE: There have been some mistakes in ros2_settings.bash, and ros2_env_init_settings.bash!
 (It's ok! it has been fixed! YAAAY!)  
 And since I thought it was just nonsence to comment out the automation, it's now fully automatable without doing ANYTHING!  
-.  
+  
+###### May/162019 UPDATE
+There has been a report that you may need additional package to run the `ros2/example`, but sorry I have no idea.  
+(SORRY, I just can't!)  
+If you can, please leave a notice what packages you needed.  
+And if you did, thanks...
 .   
 ##  ==================================================  
 ##  ======= MEMO =====================================  
