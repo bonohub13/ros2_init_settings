@@ -15,4 +15,4 @@ sudo apt install python3-colcon-common-extensions -y
 # --------------------------------------------------------------------------------------------------
 # colcon build --symlink-install
 # colcon test
-# . install/setup
+# . install/setup.bash
