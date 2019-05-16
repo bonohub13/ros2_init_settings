@@ -1,6 +1,6 @@
 sudo apt install python3-argcomplete -y
 sudo apt install python3-pip -y
-sudo pip3 install argcomplete -y
+sudo pip3 install argcomplete
 source /opt/ros/$CHOOSE_ROS_DISTRO/setup.bash
 echo "source /opt/ros/$CHOOSE_ROS_DISTRO/setup.bash" >> ~/.bashrc
 sudo apt update
