@@ -1,3 +1,5 @@
+#!/bin/bash -e
+
 sudo apt install python3-colcon-common-extensions -y
 
 ######### ros2 on Linux: 101 #########
