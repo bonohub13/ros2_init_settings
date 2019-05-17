@@ -1,7 +1,7 @@
 # ros2_init_settings
 This is mainly for people who want to be lazy as possible when making a ROS2 enviroment.
 
-# ####### This is ONLY for LINUX enviroment. #######
+# <<< This is ONLY for LINUX (Ubuntu Xenial and Bionic Beaver) enviroment >>>
   
 ##  ==================================================
 ##  ======= INSTRUTIONS ==============================
@@ -32,6 +32,9 @@ There has been a report that you may need additional package to run the `ros2/ex
 (SORRY, I just can't!)  
 If you can, please leave a notice what packages you needed.  
 And if you did, thanks...
+
+###### May/17/2019 UPDATE
+I forgot to leave a memo that says "This is only available for ubuntu ver.16.04 and 18.04" sorry...
 .   
 ##  ==================================================  
 ##  ======= MEMO =====================================  
