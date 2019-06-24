@@ -13,8 +13,7 @@ fi
 echo "The current version of distribution of ROS is $ROS_DISTRO."
 
 if [ $ROS_DISTRO = 'melodic' ]; then
-    source ~/workspace/ros_ws/devel/setup.bash
-    source ~/workspace/neko_ws/devel/setup.bash
-    source ~/workspace/test_ws/devel/setup.bash
-    source ~/programming/ros/catkin_ws/devel/setup.bash
+    # Place your workspaces here!
 fi
+
+# You can change the version of ros distribution if yours is different! ex. 'kinetic'
