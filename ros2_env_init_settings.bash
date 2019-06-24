@@ -16,6 +16,6 @@ read choice
 if [ $choice = 'y' ] || [ $choice = 'Y' ]; then
   echo "##### ROS | ROS2 settings ##########" >> .bashrc
   echo "alias mode=\". ~/ros_settings.sh\"" >> .bashrc
-  echo "Place the \"ros_settings.sh\" file to home directory."
+  mv ./ros_settings.sh ~
   echo "####################################" >> .bashrc
 fi
