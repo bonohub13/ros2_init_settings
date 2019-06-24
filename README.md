@@ -35,6 +35,11 @@ And if you did, thanks...
 
 ###### May/17/2019 UPDATE
 I forgot to leave a memo that says "This is only available for ubuntu ver.16.04 and 18.04" sorry...
+
+###### June/24/2019 UPDATE
+I've made it easier for people who wants to use ros and ros2 in the same enviroment!  
+Just enter ```mode``` in the terminal and choose the version you want to use!  
+That's it!
 .   
 ##  ==================================================  
 ##  ======= MEMO =====================================  
