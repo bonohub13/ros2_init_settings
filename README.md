@@ -13,8 +13,6 @@ This is mainly for people who want to be lazy as possible when making a ROS2 env
   1. source ros_init.bash　　
 　　
   2. source ros2_env_init_settings.bash　　
-　　
-  3. source ros2_settings.bash  
   
   ###### or... just do the lazy_way.bash
   
