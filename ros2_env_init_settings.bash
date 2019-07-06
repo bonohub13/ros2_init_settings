@@ -1,4 +1,5 @@
 #!/bin/bash -e
+# -*- coding: utf-8 -*-
 sudo apt install ros-$CHOOSE_ROS_DISTRO-desktop -y
 
 sudo apt install -y python3 \
